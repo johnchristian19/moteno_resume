@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Christian Moreno - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>John Christian Moreno</h1>
+        <p>Email:johnchristianmoreno@email.com</p>
+        <p>Phone: 09020250503</p>
+        <h2>Objective</h2>
+        <p>A passionate web developer seeking a challenging position to utilize my skills and contribute to meaningful projects.</p>
+        <h2>Education</h2>
+        <ul>
+            <li>Bachelor's Degree in Computer Science, Ilocos Sur Polytechnic State College, Graduated in 2022</li>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Responsive Web Design</li>
+            <li>Version Control (Git)</li>
+        </ul>
+        <h2>Experience</h2>
+        <ul>
+            <li>Web Developer Intern, Matnog Company, Summer 2021</li>
+            <li>Worked on front-end development for client websites</li>
+        </ul>
+        <h2>Projects</h2>
+        <ul>
+            <li>Personal Portfolio Website: Built a responsive portfolio website to showcase my work</li>
+            <li>Task Manager App: Created a task manager app using HTML, CSS, and JavaScript</li>
+        </ul>
+    </div>
+</body>
+</html>
